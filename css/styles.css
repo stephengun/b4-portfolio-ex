@@ -19,7 +19,7 @@ figure {
 }
 
 figure a {
-  display: block;
+  display: block; width="300" height="200"
   overflow: hidden;
   background: black;
 }
